@@ -14,4 +14,4 @@ Period: October 2018 – October 2020
 Frequency: Hourly
 Observations: 17,486
 
-[View Full Analysis (PDF)](Econometric_Analysis_DE_LU.pdf)
+[View Full Analysis (PDF)](Read.me_Electricity Analysis.pdf)
