@@ -18,3 +18,4 @@ Variable :
 DescriptionDE_LU_price_day_ahead Day-ahead electricity price (€/MWh) — dependent variable
 DE_LU_load_actual Actual electricity consumption (MW) 
 DE_LU_solar_generation_actualSolar generation (MW)DE_LU_wind_offshore_generation_actualOffshore wind generation (MW)DE_LU_wind_onshore_generation_actualOnshore wind generation (MW)
+
