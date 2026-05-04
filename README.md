@@ -14,7 +14,4 @@ Period: October 2018 – October 2020
 Frequency: Hourly
 Observations: 17,486
 
-Variable :
-DescriptionDE_LU_price_day_ahead Day-ahead electricity price (€/MWh) — dependent variable
-DE_LU_load_actual Actual electricity consumption (MW) 
-DE_LU_solar_generation_actualSolar generation (MW)DE_LU_wind_offshore_generation_actualOffshore wind generation (MW)DE_LU_wind_onshore_generation_actualOnshore wind generation (MW)
+[View Full Analysis (PDF)](Econometric_Analysis_DE_LU.pdf)
